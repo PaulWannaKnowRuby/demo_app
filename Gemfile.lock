@@ -183,6 +183,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  arel (= 8.0.0)
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
